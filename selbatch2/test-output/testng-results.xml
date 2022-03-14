@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28218" started-at="2022-03-11T10:25:51Z" finished-at="2022-03-11T10:26:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28218" started-at="2022-03-11T10:25:51Z" finished-at="2022-03-11T10:26:20Z">
+      <class name="selbatch2.DropdownlistpPrint">
+        <test-method status="PASS" signature="checkJavaDuration()[pri:0, instance:selbatch2.DropdownlistpPrint@36d4b5c]" name="checkJavaDuration" duration-ms="28184" started-at="2022-03-11T15:55:52Z" finished-at="2022-03-11T15:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkJavaDuration -->
+      </class> <!-- selbatch2.DropdownlistpPrint -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
